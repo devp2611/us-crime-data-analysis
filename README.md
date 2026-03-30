@@ -20,9 +20,12 @@ The analysis focuses on understanding how crime varies across states, time, and 
 ## 📊 Dataset
 
 ⚠️ The dataset is too large to be stored directly in this repository.
+⚠️ Due to large file size, the dataset cannot be hosted directly on GitHub.
 
-👉 **Access full dataset here:**  
+👉 Access full dataset here:  
 [Download Dataset (Google Drive)](https://drive.google.com/file/d/1_qvsSHzP5Fy0T6BPcnatB19QJvNxi04K/view?usp=sharing)
+
+Note: The dataset is large and may not preview in the browser. Please download the file to use it.
 
 Dataset Details:
 - Source: Kaggle (FBI Crime Data)
