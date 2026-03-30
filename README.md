@@ -72,19 +72,19 @@ This project includes:
 ## 📸 Sample Visualizations
 
 ### 📊 Overall Crime Trends
-![Crime Trends](images/crime_trend.png)
+![Crime Trends](images/crime_trends.png)
 
 ### 🗺️ Crime Distribution Across States
-![State Heatmap](images/state_heatmap.png)
+![State Distribution](images/state_distribution.png)
 
 ### 👥 Victim Age Distribution
 ![Victim Age](images/victim_age.png)
 
 ### 🔫 Weapon Usage Analysis
-![Weapon Analysis](images/weapon_analysis.png)
+![Weapon Usage](images/weapon_usage.png)
 
 ### 🤝 Victim-Perpetrator Relationship
-![Relationship Analysis](images/relationship_analysis.png)
+![Relationship](images/relationship_analysis.png)
 
 ---
 
