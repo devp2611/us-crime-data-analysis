@@ -1,4 +1,5 @@
 # 🚔 U.S. Crime Data Analysis
+Built as part of MS in Data Analytics Engineering – Northeastern University
 
 ## 📌 Overview
 This project analyzes crime data across the United States to identify patterns, trends, and insights that can support crime prevention and policy-making decisions.
