@@ -84,7 +84,7 @@ This project includes:
 ![Weapon Usage](images/weapon_usage.png)
 
 ### 🤝 Victim-Perpetrator Relationship
-![Relationship](images/relationship_analysis.png)
+![relationship_analysis](images/relationship_analysis.png)
 
 ---
 
