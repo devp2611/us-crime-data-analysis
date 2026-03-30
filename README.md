@@ -111,5 +111,6 @@ Interactive dashboard created using Tableau:
 
 ---
 
-## 👨‍💻 Author
-- Dev Patel   
+## 👨‍💻 Authors
+- Dev Patel
+- Hitaxi Lethwala   
