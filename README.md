@@ -69,7 +69,7 @@ This project includes:
 ## 📸 Sample Visualizations
 
 ### 📊 Overall Crime Trends
-![Crime Trends](images/crime_trends.png)
+![Crime Trends](images/crime_trend.png)
 
 ### 🗺️ Crime Distribution Across States
 ![State Heatmap](images/state_heatmap.png)
